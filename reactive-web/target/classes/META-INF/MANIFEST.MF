@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: PhuocNguyen
+Build-Jdk: 13.0.1
+Implementation-Title: spring-webflux-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spring.web.flux
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-webflux-demo
+Created-By: Maven Integration for Eclipse
+
